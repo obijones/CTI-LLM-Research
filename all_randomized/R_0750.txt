@@ -1,0 +1,21 @@
+**Executive Threat Intelligence Report – Business Email Compromise**
+
+**1. Executive Summary**
+
+A global business email compromise (BEC) scam targeting financial institutions is underway, with a Singapore-based firm having already suffered a USD 42.3 million loss. This represents a significant and immediate risk to our organization’s financial security and operational stability. The scammer is impersonating legitimate suppliers to redirect payments to fraudulent accounts, highlighting the vulnerability of our payment processes and requiring immediate action.
+
+**2. Potential Business Impact**
+
+This BEC campaign poses a serious threat to our organization’s financial stability. A successful compromise could result in substantial financial losses – potentially exceeding USD 42.3 million – due to fraudulent payments. Beyond direct financial loss, disruption to our payment operations would impact our ability to fulfill customer orders and maintain operational efficiency. Furthermore, a breach of this nature could severely damage our reputation, eroding customer trust and potentially triggering regulatory scrutiny related to financial security controls.
+
+**3. Affected Systems / Scope**
+
+The core vulnerability lies within our processes for verifying supplier invoices and initiating payments. Specifically, the scammer is exploiting the reliance on email communication to obtain payment details. This exposes our entire accounts payable function – the processes for receiving, approving, and executing payments – to manipulation. This compromise could disrupt critical business operations, including supplier payments, customer billing, and financial reporting.
+
+**4. Recommended Actions**
+
+*   **Immediately enhance invoice verification protocols:** Implement mandatory, multi-factor authentication for all supplier invoice review and approval processes to prevent unauthorized access and manipulation of payment instructions. This will reduce the risk of fraudulent payments being authorized.
+*   **Implement enhanced supplier communication protocols:** Mandate that all payment instructions be communicated via secure, encrypted channels – such as a dedicated portal – rather than email. This will minimize the risk of email spoofing and phishing attacks.
+*   **Conduct mandatory employee training:** Conduct immediate, comprehensive training for all employees involved in accounts payable, focusing on identifying and reporting suspicious emails and payment requests. This will improve employee awareness and reduce the likelihood of falling victim to BEC scams.
+*   **Strengthen payment authorization controls:** Implement stricter authorization controls for all outgoing payments, requiring dual approvals for transactions exceeding a defined threshold. This will provide an additional layer of security and prevent unauthorized payments.
+*   **Activate the INTERPOL I-GRIP mechanism:** Immediately engage with INTERPOL’s Financial Crime and Anti-Corruption Centre to leverage their global network and expertise in tracking and stopping fraudulent payments. This will expedite the recovery of any funds lost to the scam and support investigations.

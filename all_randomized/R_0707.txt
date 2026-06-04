@@ -1,0 +1,21 @@
+**Executive Report: Advanced Phishing Campaign Targeting Financial Services**
+
+**1. Executive Summary**
+
+A sophisticated adversary, designated Storm-1167, is conducting a multi-stage phishing and business email compromise (BEC) attack targeting banking and financial services organizations. This campaign leverages trusted vendor relationships to infiltrate organizations and initiate fraudulent financial transactions. This activity poses a significant risk to our organization’s financial stability and operational resilience.
+
+**2. Potential Business Impact**
+
+This attack represents a serious threat to our organization’s financial operations. Successful exploitation could lead to substantial financial losses through fraudulent payments, disruption of critical financial processes, and potential regulatory fines due to non-compliance with data protection regulations. The attack’s ability to leverage trusted relationships increases the likelihood of successful deception and, consequently, the potential for significant reputational damage.
+
+**3. Affected Systems / Scope**
+
+The campaign’s initial stages involve sophisticated attacks targeting users through compromised email accounts. Subsequent activity demonstrates a progression into secondary BEC attacks, indicating a broad scope of potential impact across multiple organizations. This attack highlights the vulnerability of relying on external relationships for secure communication and access, directly impacting the security of our financial transactions and customer data.
+
+**4. Recommended Actions**
+
+*   **Immediately Revoke Session Cookies:** Direct IT to immediately revoke session cookies for all users, particularly those exhibiting suspicious activity, to prevent further unauthorized access and control of accounts. This action directly addresses the identified technique of the adversary gaining control of user accounts.
+*   **Roll Back MFA Modifications:** Direct the security team to roll back any MFA modifications made by the threat actor, ensuring that existing security controls remain active and effective. This mitigates the risk of the adversary circumventing existing authentication mechanisms.
+*   **Initiate Rapid Response with Microsoft Defender Experts:** Direct the security team to leverage the Microsoft Defender Experts service to contain the attack, including continuous monitoring for additional compromised users and changes in phishing patterns. This proactive approach aligns with the vendor’s demonstrated capability to rapidly respond to complex threats.
+*   **Implement Continuous Access Evaluation:** Direct the IT department to implement continuous access evaluation, which will assess user access rights on an ongoing basis, to identify and prevent unauthorized access attempts. This strengthens our defenses against account compromise.
+*   **Invest in Advanced Anti-Phishing Solutions:** Direct the security team to invest in advanced anti-phishing solutions that monitor and scan incoming emails and visited websites, including blocking malicious websites and emails. This proactive measure will help prevent future attacks by identifying and neutralizing threats before they reach users.

@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately implement enhanced monitoring of international financial transactions to mitigate the risk of significant funds transfer fraud, as evidenced by a recent, large-scale scam targeting a Singapore-based commodity firm.**
+
+---
+
+**1. Executive Summary**
+
+A global business email compromise (BEC) scam targeting international financial transactions has been identified, resulting in the unauthorized transfer of over USD 40 million from a Singapore-based firm. This activity poses a significant risk to the financial stability of our clients and potentially exposes our organization to similar fraudulent schemes.
+
+**2. Potential Business Impact**
+
+This BEC attack represents a substantial financial loss – approximately USD 40 million – and could severely disrupt the firm’s operations. Beyond the immediate monetary loss, the incident carries the potential for reputational damage if our organization is perceived as vulnerable to such attacks, and could trigger regulatory scrutiny related to safeguarding client assets.
+
+**3. Affected Systems / Scope**
+
+The core business risk stems from the manipulation of email communications to deceive employees into facilitating fraudulent financial transfers. This compromises the integrity of payment processes and exposes the firm’s operations to disruption, as evidenced by the firm’s inability to pay its legitimate supplier. The vulnerability lies in the lack of robust verification processes for external payment requests, particularly those originating from unfamiliar suppliers.
+
+**4. Recommended Actions**
+
+*   **Immediately enhance transaction monitoring:** Implement enhanced monitoring of international financial transactions, specifically focusing on large-value transfers to unfamiliar or newly established accounts, to detect and prevent similar fraudulent activity.
+*   **Strengthen supplier verification protocols:** Implement stricter supplier verification procedures, including independent confirmation of supplier details and payment instructions through alternative channels (e.g., phone calls), to reduce the likelihood of employees falling victim to email deception.
+*   **Implement multi-factor authentication:** Enforce multi-factor authentication for all systems handling financial transactions to mitigate the risk of unauthorized access due to compromised credentials.
+*   **Conduct employee awareness training:** Conduct mandatory employee training on recognizing and reporting BEC scams, emphasizing the importance of verifying payment requests and exercising caution when dealing with unfamiliar suppliers.
+*   **Collaborate with INTERPOL:** Maintain and strengthen collaboration with international law enforcement agencies, such as INTERPOL, to share intelligence and coordinate responses to cross-border financial crime threats, as demonstrated by their rapid intervention in this case.

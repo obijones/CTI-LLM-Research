@@ -1,0 +1,21 @@
+**Executive Report: Advanced Phishing Campaign Targeting Financial Services**
+
+**1. Executive Summary**
+
+A sophisticated adversary, designated Storm-1167, is conducting a multi-stage phishing and business email compromise (BEC) attack targeting banking and financial services organizations. This campaign leverages trusted vendor relationships to gain access to organizations and initiate fraudulent financial transactions. This activity poses a significant risk to the organization’s financial stability and operational continuity.
+
+**2. Potential Business Impact**
+
+This attack represents a serious threat to the organization’s financial operations. Successful exploitation could result in substantial financial losses due to fraudulent wire transfers, disruption of critical financial processes, and potential regulatory fines associated with non-compliance. Furthermore, the compromised organization’s reputation could suffer significant damage, impacting customer trust and investor confidence. The attack’s multi-stage nature suggests the potential for prolonged disruption and escalating financial harm.
+
+**3. Affected Systems / Scope**
+
+The campaign targets organizations’ operational processes related to financial transactions and communications. Specifically, the attack utilizes compromised trusted vendor relationships to gain access to user mailboxes and initiate fraudulent activity. This exposes the organization’s reliance on external partners and the potential for attackers to pivot from initial access to broader system compromise, impacting critical business functions reliant on secure communications and data exchange.
+
+**4. Recommended Actions**
+
+*   **Immediately revoke session cookies** for all users, particularly those exhibiting suspicious activity, to prevent further access by the attacker. This directly addresses the observed second-stage BEC activity and limits the attacker’s ability to maintain control of compromised accounts.
+*   **Initiate a comprehensive review of all vendor relationships** to assess the security posture of external partners and identify potential vulnerabilities in the supply chain. This proactive step mitigates the risk of future attacks originating from compromised vendors.
+*   **Implement continuous access evaluation** for all users, focusing on identifying anomalous login attempts based on location, internet service provider, and user agent. This strengthens defenses against unauthorized access and provides an early warning of potential compromise.
+*   **Invest in advanced anti-phishing solutions** that monitor and scan incoming emails and visited websites, including those used in this phishing campaign. This provides an additional layer of protection against sophisticated phishing attacks.
+*   **Continuously monitor suspicious or anomalous activities** within user mailboxes, hunting for sign-in attempts with suspicious characteristics. This proactive approach allows for rapid detection and response to evolving threat tactics.

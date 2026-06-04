@@ -1,0 +1,21 @@
+**Executive Threat Intelligence Report – Change Healthcare Cyberattack**
+
+**1. Executive Summary**
+
+A sophisticated ransomware group, ALPHV/Blackcat, has successfully breached Change Healthcare’s systems, resulting in the theft of substantial patient data and significant operational disruption across the U.S. healthcare sector. This incident presents a critical risk to our organization, potentially leading to substantial financial losses, reputational damage, and increased regulatory scrutiny.
+
+**2. Potential Business Impact**
+
+This cyberattack poses a serious threat to our business operations. The disruption to Change Healthcare’s systems has directly impacted the delivery of healthcare services, leading to delays in patient care, financial losses for healthcare providers, and the potential for increased fraud and identity theft involving compromised patient data. The scale of the breach – potentially impacting up to one in three Americans – highlights the broad systemic risk and the potential for significant financial repercussions if similar vulnerabilities exist within our own operations or those of our partners.
+
+**3. Affected Systems / Scope**
+
+The core operational systems of Change Healthcare have been compromised, severely impacting its ability to process patient data and facilitate healthcare transactions. This disruption extends across multiple business functions, including claims processing, pharmacy services, and revenue cycle management. The attack’s impact is widespread, affecting numerous healthcare providers and potentially disrupting the entire healthcare supply chain.
+
+**4. Recommended Actions**
+
+*   **Immediately Review Third-Party Vendor Risk:** Direct Change Healthcare to conduct a comprehensive review of all third-party suppliers and financial intermediaries to identify and mitigate potential weaknesses in their cybersecurity posture. This is critical to prevent similar breaches from spreading through the healthcare ecosystem.
+*   **Enhance Incident Response Planning:** Direct Change Healthcare to develop and implement robust incident response and contingency plans to minimize disruption in the event of another attack and prolonged outage. This includes establishing clear communication protocols and recovery procedures.
+*   **Increase Cybersecurity Spending:** Direct Change Healthcare to increase cybersecurity spending to bolster defenses and proactively address vulnerabilities. The recent survey data indicates a widespread need for increased investment in cybersecurity across the healthcare sector.
+*   **Conduct Comprehensive System Audits:** Direct Change Healthcare to conduct audits of internal systems and current vendors to identify and remediate security gaps. This proactive approach is essential to strengthen overall cybersecurity resilience.
+*   **Prioritize MFA Implementation:** Direct Change Healthcare to prioritize the implementation of multi-factor authentication (MFA) across all external-facing systems, as highlighted by Senator Wyden and the FTC’s actions against other companies lacking this critical security measure.

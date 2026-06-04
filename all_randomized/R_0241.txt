@@ -1,0 +1,21 @@
+**Executive Threat Intelligence Report – Salesforce Ransomware Activity**
+
+**1. Executive Summary**
+
+The ShinyHunters cyber threat actor is targeting organizations utilizing Salesforce, a leading customer relationship management (CRM) platform, through sophisticated social engineering and exploitation of vulnerabilities. This activity poses a significant risk to our organization by enabling data theft, operational disruption, and potential financial losses. Immediate action is required to mitigate this evolving threat.
+
+**2. Potential Business Impact**
+
+A successful attack by ShinyHunters could result in substantial financial losses due to ransomware demands, the cost of data recovery, and potential legal liabilities associated with compromised customer data. Operational disruption, including the inability to access critical customer information, could severely impact sales and service delivery, leading to lost revenue and damage to our reputation. Furthermore, regulatory scrutiny and potential fines could arise from non-compliance with data protection regulations following a breach.
+
+**3. Affected Systems / Scope**
+
+This threat actor focuses on compromising Salesforce applications, specifically targeting high-privilege user accounts within cloud-hosted project management and engineering collaboration platforms. This exposes our organization to the risk of unauthorized access to sensitive customer data and disruption of critical business processes reliant on Salesforce. The attack vector involves impersonating IT staff via phone calls, directing employees to legitimate Salesforce connections to gain access.
+
+**4. Recommended Actions**
+
+*   **Immediately Enhance User Authentication:** Implement multi-factor authentication (MFA) across all Salesforce applications and related systems to prevent unauthorized access resulting from compromised credentials. This will reduce the risk of attackers gaining control of user accounts through social engineering tactics.
+*   **Strengthen Employee Training:** Conduct mandatory training for all employees who interact with Salesforce, focusing on recognizing and resisting social engineering attacks, particularly those involving impersonation of IT support staff. This will improve employee awareness and reduce the likelihood of falling victim to phishing schemes.
+*   **Restrict Data Access:** Enforce strict access controls, limiting employee access to sensitive data on a need-to-know basis. This minimizes the potential damage from a compromised account by reducing the attack surface.
+*   **Implement Enhanced Monitoring:** Deploy monitoring solutions to detect suspicious activity within Salesforce applications, including unusual login attempts, large data exports, and communication patterns indicative of a compromised account. This will provide early warning of an ongoing attack.
+*   **Investigate and Secure Oracle Access Manager:** Given the threat actor’s exploitation of Oracle Access Manager vulnerabilities, conduct a thorough security assessment of our Oracle systems and implement necessary security patches and configurations to address identified weaknesses. This will reduce the risk of a successful breach of our Oracle systems.

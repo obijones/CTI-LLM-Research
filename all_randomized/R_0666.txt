@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately implement enhanced monitoring of all international financial transactions to mitigate the risk of significant financial loss and reputational damage resulting from business email compromise attacks.**
+
+---
+
+**1. Executive Summary**
+
+A global business email compromise (BEC) scam targeting financial institutions is underway, involving a coordinated effort to defraud businesses through deceptive emails impersonating suppliers. This activity poses a direct and immediate risk to the organization’s financial stability and operational continuity, potentially leading to substantial monetary losses and reputational harm.
+
+**2. Potential Business Impact**
+
+This BEC campaign represents a serious threat to the organization’s financial operations. Successful exploitation could result in the unauthorized transfer of significant sums of money – exceeding USD 40 million – to fraudulent accounts, directly impacting profitability and potentially triggering regulatory scrutiny. Furthermore, a successful attack could severely damage the organization’s reputation, eroding stakeholder confidence and impacting future business relationships.
+
+**3. Affected Systems / Scope**
+
+The core operational risk stems from the vulnerability of employees to sophisticated social engineering tactics. Specifically, the organization’s financial processes are exposed to manipulation through fraudulent communications designed to trick personnel into diverting funds. This compromises the integrity of payment workflows and creates a significant disruption to the flow of funds, impacting critical business functions related to procurement and supplier payments.
+
+**4. Recommended Actions**
+
+*   **Implement Enhanced Transaction Monitoring:** Immediately enhance monitoring of all international financial transactions, focusing on payments to newly established supplier accounts and those originating from high-risk jurisdictions (e.g., Timor Leste). This will enable rapid detection of suspicious activity and prevent further unauthorized transfers.
+*   **Reinforce Employee Training:** Conduct mandatory, targeted training for all employees involved in financial operations, emphasizing the risks of BEC scams and the importance of verifying payment requests through multiple channels – particularly direct contact with the legitimate supplier.
+*   **Strengthen Supplier Verification Protocols:** Implement a more rigorous supplier verification process, including independent confirmation of supplier details and bank account information through a trusted third party before initiating any payments.
+*   **Establish a Rapid Response Protocol:** Develop and implement a rapid response protocol for suspected BEC incidents, outlining clear steps for investigation, notification, and potential legal action. This protocol should prioritize immediate containment and mitigation of losses.
+*   **Collaborate with INTERPOL:** Maintain and strengthen collaboration with INTERPOL and other law enforcement agencies to share intelligence and coordinate efforts to combat this global threat.

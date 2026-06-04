@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately implement enhanced monitoring of international financial transactions to mitigate the risk of significant financial loss due to business email compromise attacks.**
+
+---
+
+**1. Executive Summary**
+
+A global business email compromise (BEC) scam targeting financial institutions has resulted in the theft of over USD 40 million. This incident highlights a serious and evolving threat to global financial operations, creating a direct risk of substantial financial loss and potential reputational damage.
+
+**2. Potential Business Impact**
+
+This BEC attack poses a significant risk to our organization’s financial stability. A successful compromise could lead to direct financial losses exceeding USD 40 million, disrupt critical payment processing operations, and trigger substantial regulatory scrutiny and potential fines. Furthermore, the incident could severely damage our reputation and erode trust with our clients and partners.
+
+**3. Affected Systems / Scope**
+
+The core operational risk stems from the manipulation of email communications to initiate fraudulent financial transfers. Specifically, the attack exploited vulnerabilities in supplier communication processes, impacting the ability to verify payment instructions and control the flow of funds. This exposes the entire payment processing function and any systems reliant on external supplier communications.
+
+**4. Recommended Actions**
+
+*   **Immediately enhance monitoring of international financial transactions:** Implement heightened scrutiny of all international payments, particularly those involving new suppliers or unusual payment instructions, to detect and prevent fraudulent transfers.
+*   **Strengthen supplier verification processes:** Implement more rigorous supplier onboarding procedures, including enhanced due diligence checks and independent verification of supplier details, to reduce the risk of impersonation.
+*   **Reinforce employee awareness training:** Conduct immediate training for all employees involved in financial transactions, focusing on recognizing and reporting suspicious email communications and payment requests.
+*   **Implement multi-factor authentication (MFA) for all financial systems:** Enforce MFA across all systems handling financial transactions to add an extra layer of security and prevent unauthorized access.
+*   **Establish a rapid response protocol for fraud investigations:** Develop and implement a streamlined protocol for investigating and responding to suspected fraud incidents, ensuring swift action to minimize potential losses and contain the damage.

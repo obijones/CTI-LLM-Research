@@ -1,0 +1,21 @@
+**Executive Threat Intelligence Report – Business Email Compromise**
+
+**1. Executive Summary**
+
+A global cybercriminal network is targeting businesses through sophisticated business email compromise (BEC) scams, resulting in significant financial losses. This network is impersonating legitimate suppliers to redirect payments to fraudulent accounts, and the current activity poses a direct and immediate risk to our organization’s financial operations. We must take immediate action to mitigate the risk of funds being misappropriated.
+
+**2. Potential Business Impact**
+
+A successful BEC attack could result in substantial financial losses, estimated at over USD 40 million, due to fraudulent payments. Operational disruption is also a key concern, as the redirection of funds could halt critical business processes, including supplier payments and international transactions. Furthermore, this activity could damage our organization’s reputation and potentially lead to regulatory scrutiny related to financial controls and fraud prevention.
+
+**3. Affected Systems / Scope**
+
+The primary risk lies within our organization’s procurement and payment processes, specifically the reliance on external suppliers for goods and services. The threat actor is exploiting vulnerabilities in email communication channels to deceive employees into transferring funds. This exposes the entire supply chain, impacting any business function that relies on external financial transactions. The scope of this risk extends to all departments involved in vendor payments and accounts payable.
+
+**4. Recommended Actions**
+
+*   **Immediately Enhance Supplier Verification Protocols:** Implement enhanced due diligence procedures for all new and existing suppliers, including requiring multi-factor authentication for all vendor communications and mandating verification of bank account details through independent channels. This will reduce the likelihood of employees being deceived by fraudulent communications.
+*   **Reinforce Employee Training on Fraud Awareness:** Conduct mandatory training for all employees involved in procurement and payment processes, focusing on recognizing and reporting suspicious emails and requests for payment. This will improve employee vigilance and reduce the risk of falling victim to social engineering attacks.
+*   **Implement Payment Segregation Controls:** Establish strict segregation of duties for payment approvals, requiring independent authorization for all transactions exceeding a defined threshold. This will limit the potential for a single individual to authorize fraudulent payments.
+*   **Activate the INTERPOL I-GRIP Mechanism:** Immediately engage INTERPOL’s Global Rapid Intervention of Payments (I-GRIP) mechanism to flag and potentially intercept any suspicious payments originating from our suppliers. This will provide an additional layer of protection and facilitate rapid response in the event of a confirmed fraud.
+*   **Conduct a Thorough Audit of Recent Payments:** Initiate a comprehensive review of all recent payments to suppliers, focusing on transactions involving new or recently changed bank account details, to identify any potential instances of fraud.

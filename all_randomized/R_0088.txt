@@ -1,0 +1,21 @@
+**Executive Threat Intelligence Report – Business Email Compromise**
+
+**1. Executive Summary**
+
+A global scam targeting businesses through business email compromise (BEC) is underway, with a Singapore-based firm recently impacted. This sophisticated fraud operation poses a significant risk to our organization by enabling attackers to gain unauthorized access to business communications and initiate fraudulent financial transactions. The potential for substantial financial loss and reputational damage necessitates immediate attention and proactive mitigation measures.
+
+**2. Potential Business Impact**
+
+This BEC campaign presents a serious threat to our organization’s financial stability and operational integrity. Successful exploitation could result in the unauthorized transfer of large sums of money, leading to direct financial losses. Furthermore, a compromised email account could damage our reputation, eroding trust with clients and partners, and potentially triggering regulatory scrutiny related to financial controls and data security. The scale of potential disruption could significantly impact our ability to fulfill contractual obligations and maintain business continuity.
+
+**3. Affected Systems / Scope**
+
+The core vulnerability lies within the potential for attackers to impersonate legitimate suppliers via fraudulent email accounts. This compromises the security of our communications channels, specifically impacting the processes surrounding vendor payments and supplier interactions. This exposes our operational processes dependent on secure communication with external partners, creating a risk to our financial operations and supply chain management.
+
+**4. Recommended Actions**
+
+*   **Immediately enhance email authentication protocols:** Implement multi-factor authentication (MFA) for all email accounts, particularly those involved in financial transactions, to prevent unauthorized access even if an attacker compromises a password. This will reduce the risk of attackers gaining control of legitimate email accounts.
+*   **Strengthen supplier verification procedures:** Implement a rigorous process for verifying the authenticity of all new suppliers, including independent confirmation of bank account details and verification of supplier credentials through a third-party source. This will minimize the risk of funds being diverted to fraudulent accounts.
+*   **Implement enhanced monitoring of financial transactions:** Deploy systems to monitor all outgoing payments for unusual patterns, such as changes in payment recipients, amounts, or payment methods. This will allow for rapid detection and intervention in the event of fraudulent activity.
+*   **Conduct mandatory employee training on BEC awareness:** Provide comprehensive training to all employees on how to identify and avoid BEC scams, including recognizing suspicious email requests, verifying sender identities, and reporting potential fraud. This will improve employee vigilance and reduce the likelihood of falling victim to the scam.
+*   **Establish a rapid response protocol for suspected fraud:** Develop and implement a clear protocol for responding to suspected fraud incidents, including steps for isolating affected accounts, notifying relevant authorities, and conducting a thorough investigation. This will ensure a swift and coordinated response to minimize the impact of a successful attack.

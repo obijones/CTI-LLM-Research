@@ -1,0 +1,21 @@
+**Executive Threat Intelligence Report – TA4903 Activity**
+
+**1. Executive Summary**
+
+TA4903, a financially motivated cybercriminal actor, is conducting broad email campaigns designed to steal corporate credentials and initiate business email compromise (BEC) activity. This activity poses a significant risk to our organization by potentially leading to financial loss, operational disruption, and reputational damage.
+
+**2. Potential Business Impact**
+
+A successful TA4903 campaign could result in substantial financial losses through fraudulent payments, disruption of critical business operations due to compromised accounts, and damage to our organization’s reputation if customer or partner data is exposed. The actor’s broad targeting approach increases the likelihood of a successful compromise and subsequent financial impact.
+
+**3. Affected Systems / Scope**
+
+The threat actor is targeting organizations across various sectors, including construction, finance, healthcare, and food and beverage. Their campaigns utilize email themes such as “cyberattack” or “payment” themes, employing lookalike domains and reply-to email addresses owned by the threat actor. This broad targeting exposes our organization to the risk of credential theft and subsequent BEC attacks impacting any business process reliant on external communications or financial transactions.
+
+**4. Recommended Actions**
+
+*   **Immediately enhance monitoring of all external communications:** Implement heightened scrutiny of incoming emails, particularly those referencing “cyberattack” or “payment” themes, to identify and block potentially malicious messages. This will reduce the risk of the actor successfully deploying a BEC lure.
+*   **Reinforce employee awareness training:** Conduct targeted training sessions focusing on recognizing and reporting suspicious emails, emphasizing the importance of verifying requests for sensitive information, especially financial details. This will mitigate the risk of employees falling victim to phishing attacks.
+*   **Review and strengthen vendor communication protocols:** Implement enhanced verification procedures for all external communications from suppliers and partners, focusing on confirming the sender’s identity and the legitimacy of their requests. This will reduce the risk of compromised supplier accounts being used to launch BEC attacks.
+*   **Implement enhanced account monitoring for compromised credentials:** Increase the frequency of monitoring for unusual account activity, particularly login attempts from unfamiliar locations or devices, to detect and respond to potential credential theft quickly. This will minimize the potential for the actor to gain access to sensitive systems.
+*   **Conduct a thorough review of email authentication protocols:** Ensure that all email systems are configured with the strongest available authentication protocols (e.g., SPF, DKIM, DMARC) to prevent spoofing and improve the ability to identify and block malicious emails. This will strengthen our defenses against email-based attacks.

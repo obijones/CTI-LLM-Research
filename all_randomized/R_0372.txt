@@ -1,0 +1,21 @@
+**Executive Threat Intelligence Report – Business Email Compromise**
+
+**1. Executive Summary**
+
+A global scam targeting businesses via business email compromise (BEC) is underway, with a Singapore-based firm recently impacted. This sophisticated operation poses a significant risk to our organization by enabling attackers to gain unauthorized access to business communications and initiate fraudulent financial transactions. The potential for substantial financial loss and reputational damage necessitates immediate action.
+
+**2. Potential Business Impact**
+
+This BEC campaign presents a serious threat to our organization’s financial stability and operational integrity. A successful compromise could result in the unauthorized transfer of significant sums of money, leading to direct financial loss. Furthermore, the disruption caused by a fraudulent transaction could halt critical business processes, impacting revenue generation and customer service. Finally, a successful attack could damage our reputation and erode trust with our stakeholders, potentially leading to regulatory scrutiny.
+
+**3. Affected Systems / Scope**
+
+The core vulnerability exploited in this campaign lies within the susceptibility of businesses to deceptive email communications. Specifically, attackers are impersonating legitimate suppliers to request payment redirection to fraudulent bank accounts. This compromises the integrity of business communications and the ability of employees to verify the authenticity of requests for payment. This exposes the entire organization to the risk of fraudulent financial transactions, impacting any department or individual involved in processing payments or managing supplier relationships.
+
+**4. Recommended Actions**
+
+*   **Immediately enhance employee training:** Implement mandatory training for all employees involved in financial transactions and supplier communications, focusing on recognizing and verifying suspicious email requests. This will reduce the risk of employees falling victim to social engineering tactics.
+*   **Strengthen payment verification protocols:** Establish a rigorous process for verifying all payment requests, including independent confirmation with the supplier via a separate communication channel (e.g., phone call) before initiating any transfer. This will mitigate the risk of transferring funds to fraudulent accounts.
+*   **Implement multi-factor authentication (MFA):** Enforce MFA for all email accounts and systems involved in financial transactions to prevent unauthorized access, even if a user’s credentials are compromised. This will provide an additional layer of security.
+*   **Review and update supplier communication procedures:** Establish a formal process for receiving and verifying payment requests from suppliers, including requiring suppliers to confirm payment details via a secure channel. This will reduce the likelihood of attackers exploiting weaknesses in existing processes.
+*   **Conduct a thorough internal audit of recent financial transactions:** Immediately initiate an audit of all recent financial transactions to identify any potentially compromised payments and assess the extent of the potential damage. This will allow for swift action to recover funds and prevent further losses.

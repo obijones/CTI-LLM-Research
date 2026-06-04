@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately revoke all session cookies and roll back any recent security settings made by users who have interacted with external Teams collaboration to mitigate the risk of unauthorized access and potential financial fraud.**
+
+---
+
+**1. Executive Summary**
+
+A sophisticated cyberattack, orchestrated by a threat actor designated Storm-1167, is targeting financial services organizations through the abuse of external Microsoft Teams collaboration. This attack leverages a technique known as “attack in the middle” (AiTM) to impersonate IT helpdesk staff and gain remote access, posing a significant risk to sensitive financial data and operational stability.
+
+**2. Potential Business Impact**
+
+This activity presents a serious threat to our organization’s operations and financial security. Successful exploitation could lead to unauthorized access to critical financial systems, resulting in potential data breaches, fraudulent transactions, and substantial financial losses. Furthermore, a compromised reputation due to a security incident could severely damage customer trust and lead to regulatory scrutiny.
+
+**3. Affected Systems / Scope**
+
+The attack targets organizations’ ability to securely manage IT support requests and access sensitive systems. The core vulnerability lies in the trust placed in external communication channels, specifically Microsoft Teams, which is being used to deceive users into granting remote access to attackers. This compromises the integrity of the entire IT support process and exposes the organization to a wide range of potential attacks, including business email compromise (BEC).
+
+**4. Recommended Actions**
+
+*   **Immediately Revoke Session Cookies:** Direct IT support teams to immediately revoke all active session cookies for users who have engaged with external Teams collaboration, preventing the attacker from maintaining unauthorized access to systems.
+*   **Roll Back Recent MFA Modifications:** Direct IT support teams to roll back any recent multi-factor authentication (MFA) modifications made by the threat actor, restoring the original security settings and preventing further compromise.
+*   **Implement Enhanced Monitoring:** Direct the security operations center (SOC) to implement enhanced monitoring of user behavior, focusing on suspicious email activity and unusual access requests originating from external Teams collaboration.
+*   **Conduct User Awareness Training:** Direct the organization’s training department to conduct immediate awareness training for all employees, emphasizing the risks of phishing attacks and the importance of verifying the authenticity of IT support requests.
+*   **Initiate Rapid Response with Microsoft 365 Defender:** Direct the security team to leverage Microsoft 365 Defender to contain the attack, including identifying and isolating compromised users and monitoring for any additional malicious activity.

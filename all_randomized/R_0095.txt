@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately revoke all session cookies and roll back any recent multi-factor authentication (MFA) changes across all affected systems to prevent further unauthorized access and potential financial loss.**
+
+---
+
+**1. Executive Summary**
+
+Threat actors are leveraging external Microsoft Teams collaboration to impersonate IT helpdesk staff and convince users to grant remote access, resulting in a significant risk to the organization’s financial operations. This sophisticated attack, facilitated by a known threat actor (Storm-1167), highlights the potential for significant operational disruption and financial loss through business email compromise (BEC) activities.
+
+**2. Potential Business Impact**
+
+A successful exploitation of this tactic could lead to substantial financial losses due to fraudulent wire transfers, unauthorized access to sensitive financial data, and disruption of critical business processes. The rapid spread of this campaign, as evidenced by the multi-stage attack, underscores the potential for widespread damage and significant reputational harm if not addressed swiftly.
+
+**3. Affected Systems / Scope**
+
+This attack targets the organization’s ability to securely manage user access and control sensitive information, specifically impacting the banking and financial services sector. The compromised access allows attackers to monitor user mailboxes for undelivered and out-of-office emails, and delete them from the Archive folder. This exposes the organization to the risk of further BEC attacks and unauthorized access to confidential data.
+
+**4. Recommended Actions**
+
+*   **Immediately Revoke Session Cookies:** Direct IT security teams to immediately revoke all active session cookies across all affected systems to prevent the threat actor from maintaining unauthorized access. This is a critical step in containing the immediate threat.
+*   **Roll Back MFA Changes:** Direct IT security teams to roll back any recent multi-factor authentication (MFA) modifications made by the threat actor. This will eliminate any compromised MFA configurations that could be exploited.
+*   **Initiate Rapid Response with Microsoft 365 Defender:** Direct the Microsoft 365 Defender team to contain the attack, including monitoring for additional compromised users and changes in phishing patterns.
+*   **Conduct Thorough User Training:** Direct the organization to implement enhanced user training programs focused on recognizing and reporting suspicious emails and requests for remote access. This proactive measure will help prevent future attacks.
+*   **Implement Advanced Threat Hunting:** Direct the organization to initiate proactive threat hunting activities to identify and remediate any additional compromised users or anomalous activity related to this campaign.

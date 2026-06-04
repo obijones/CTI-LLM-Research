@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately implement enhanced monitoring of all international financial transactions to mitigate the risk of significant financial loss and reputational damage resulting from business email compromise attacks.**
+
+---
+
+**1. Executive Summary**
+
+A global business email compromise (BEC) scam targeting Singapore-based firms has resulted in the theft of over USD 40 million. This represents a critical operational risk, potentially disrupting international financial operations and exposing the organization to significant financial loss and reputational damage.
+
+**2. Potential Business Impact**
+
+This BEC attack poses a serious threat to the organization’s financial stability and operational continuity. A successful compromise could lead to substantial financial losses due to fraudulent transfers, disrupt critical international payment processes, and damage the organization’s reputation, eroding trust with partners and clients. Furthermore, the incident could trigger regulatory scrutiny and potential fines related to financial crime investigations.
+
+**3. Affected Systems / Scope**
+
+The core business risk stems from the vulnerability of employees to sophisticated social engineering tactics. Specifically, the attack demonstrates the potential for attackers to impersonate legitimate suppliers and deceive employees into initiating fraudulent financial transactions. This exposes the entire process of international payments, impacting the finance and operations departments and potentially affecting relationships with key international suppliers.
+
+**4. Recommended Actions**
+
+*   **Implement Enhanced Transaction Monitoring:** Immediately implement enhanced monitoring of all international financial transactions, focusing on payments to newly established suppliers or those with altered email addresses, to detect and prevent fraudulent transfers.
+*   **Reinforce Supplier Verification Protocols:** Strengthen supplier verification procedures, including multi-factor authentication and rigorous confirmation of supplier details, to reduce the likelihood of employees falling victim to impersonation attacks.
+*   **Conduct Employee Awareness Training:** Conduct mandatory employee training on recognizing and reporting suspicious emails and financial requests, emphasizing the importance of verifying supplier identities independently.
+*   **Establish a Rapid Response Protocol:** Develop and implement a rapid response protocol for investigating suspected fraud cases, including immediate notification of relevant authorities and steps to contain further losses.
+*   **Collaborate with INTERPOL:** Maintain and strengthen collaboration with INTERPOL and other law enforcement agencies to share intelligence and coordinate efforts to combat global BEC threats.

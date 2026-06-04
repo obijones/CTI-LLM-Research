@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately implement enhanced monitoring of communications to and from foreign IP addresses to mitigate the risk of data exfiltration by the CL0P ransomware group.**
+
+---
+
+**1. Executive Summary**
+
+The CL0P ransomware group has stolen sensitive information from a GoAnywhere MFT resource and is threatening to publish it publicly. This activity poses a significant risk to the organization’s operations, potentially leading to substantial financial losses and reputational damage.
+
+**2. Potential Business Impact**
+
+A successful data breach by the CL0P group could result in substantial financial losses due to ransom demands, legal fees associated with regulatory investigations, and the cost of restoring compromised systems and data. Furthermore, the public disclosure of sensitive information would severely damage the organization’s reputation, eroding customer trust and potentially impacting revenue streams.
+
+**3. Affected Systems / Scope**
+
+The CL0P group has targeted a GoAnywhere MFT resource, which is used to facilitate secure remote access to the organization’s systems. This means that any business process reliant on this remote access solution is now exposed to the risk of compromise. Specifically, disruption to remote access could halt critical operational functions, impacting productivity and potentially delaying key business initiatives.
+
+**4. Recommended Actions**
+
+*   **Immediately report the incident:** Report the ransomware incident to a local FBI Field Office and the FBI Internet Crime Complaint Center (IC3) to initiate a formal investigation and leverage available resources.
+*   **Implement enhanced monitoring:** Implement enhanced monitoring of communications to and from foreign IP addresses to identify and block any further data exfiltration attempts by the CL0P group.
+*   **Request incident response resources:** Contact CISA to request incident response resources and technical assistance related to these threats.
+*   **Review remote access solutions:** Audit remote access tools on your network to identify currently used and/or authorized software and implement controls to restrict access.
+*   **Secure data:** The FBI and CISA urge you to promptly report ransomware incidents to a local FBI Field Office, report the incident to the FBI Internet Crime Complaint Center (IC3) at [ic3.gov,](https://www.ic3.gov/) or CISA at [cisa.gov/report.](https://www.cisa.gov/report)

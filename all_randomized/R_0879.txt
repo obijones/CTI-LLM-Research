@@ -1,0 +1,21 @@
+**Executive Threat Intelligence Report – Salesforce Ransomware Activity**
+
+**1. Executive Summary**
+
+The ShinyHunters threat actor is targeting organizations utilizing Salesforce, a leading customer relationship management (CRM) platform, through sophisticated social engineering and insider threat tactics. This activity poses a significant risk to our organization by enabling data theft, operational disruption, and potential financial loss through extortion. We must immediately implement enhanced monitoring and access controls to mitigate this evolving threat.
+
+**2. Potential Business Impact**
+
+A successful attack by ShinyHunters could result in substantial financial damage through ransom payments, remediation costs, and lost productivity. Furthermore, the theft of sensitive customer data – including financial records and personal information – would trigger significant reputational damage and potentially expose us to regulatory fines and legal action related to data privacy breaches. The disruption of our core sales and customer service operations would directly impact revenue streams and customer satisfaction.
+
+**3. Affected Systems / Scope**
+
+This threat actor is specifically targeting high-privilege user accounts within Salesforce applications, including cloud-hosted project management and engineering collaboration platforms. This exposes our organization to the risk of unauthorized access to critical business data and the potential for disruption of key operational processes, particularly those reliant on Salesforce for sales, marketing, and customer support. The actor’s preference for targeting cloud-based systems amplifies the risk across our entire business.
+
+**4. Recommended Actions**
+
+*   **Immediately Enhance User Access Controls:** Direct the IT security team to implement stricter access controls, limiting employee access to sensitive data on a need-to-know basis, to reduce the potential for insider threats and unauthorized data access.
+*   **Implement Multi-Factor Authentication (MFA) Universally:** Direct the IT security team to enforce MFA across all Salesforce applications and related systems to prevent credential compromise, a key tactic employed by ShinyHunters.
+*   **Conduct Targeted Employee Training:** Direct the HR and training departments to initiate immediate training programs focused on recognizing and avoiding social engineering attacks, particularly those involving deceptive phone calls (vishing), to reduce the likelihood of employees falling victim to these tactics.
+*   **Deploy Enhanced Monitoring and Anomaly Detection:** Direct the security operations center to deploy and configure monitoring tools – such as Salesforce Shield, Okta ThreatInsight, and Microsoft security logs – to detect suspicious activity and anomalous user behavior within the Salesforce environment.
+*   **Strengthen Supply Chain Security:** Direct the procurement and IT teams to review and enhance security protocols for all third-party vendors and applications integrated with Salesforce, recognizing the threat actor’s ability to exploit supply chain vulnerabilities for broader system compromise.

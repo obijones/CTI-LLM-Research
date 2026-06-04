@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately implement enhanced monitoring and access controls across all Salesforce applications to mitigate the risk of data exfiltration and operational disruption posed by the ShinyHunters threat actor.**
+
+---
+
+**1. Executive Summary**
+
+The ShinyHunters threat actor is targeting organizations utilizing cloud-based applications, specifically Salesforce, through sophisticated social engineering and exploitation of vulnerabilities. This activity presents a significant risk of data theft, operational disruption, and potential financial loss for our organization. We must prioritize immediate action to prevent unauthorized access and data compromise.
+
+**2. Potential Business Impact**
+
+A successful attack by ShinyHunters could result in substantial financial losses due to data exfiltration, extortion demands, and the cost of incident response and recovery. Furthermore, the compromise of customer data would severely damage our reputation and potentially lead to regulatory fines related to data protection regulations. Operational disruptions, including service outages and lost productivity, would also represent a significant business impact.
+
+**3. Affected Systems / Scope**
+
+The threat actor’s primary focus is on accessing and exfiltrating sensitive data from organizations using Salesforce applications, including CRM systems and related data loaders. This exposes critical business processes reliant on Salesforce, such as customer relationship management, sales operations, and marketing automation. The attack vector involves social engineering tactics, specifically voice call phishing, to gain initial access and escalate privileges.
+
+**4. Recommended Actions**
+
+*   **Implement Multi-Factor Authentication (MFA):** Enforce MFA universally across all Salesforce applications to prevent unauthorized access even if credentials are compromised through social engineering. This directly addresses the threat actor’s reliance on stolen credentials.
+*   **Restrict Data Access Permissions:** Limit employee access to Salesforce data based on a “need-to-know” basis, minimizing the potential damage from a compromised account. This reduces the attack surface and limits the scope of potential data breaches.
+*   **Enhance Employee Training:** Conduct comprehensive training programs focused on recognizing and resisting social engineering attacks, particularly voice-based phishing attempts. This proactive measure will improve employee awareness and reduce vulnerability to attack.
+*   **Strengthen Monitoring and Detection:** Deploy enhanced monitoring tools to detect anomalous activity within Salesforce applications, such as unusual data exports or access patterns. This provides early warning signs of a potential breach and enables rapid response.
+*   **Implement Strong Authentication Policies:** Mandate the use of FIDO 2 security keys for users managing sensitive data, adding an additional layer of security against credential theft and unauthorized access.

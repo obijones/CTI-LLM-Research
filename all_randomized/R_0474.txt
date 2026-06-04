@@ -1,0 +1,27 @@
+**BOTTOM LINE: Immediately disable HTTP/S server functionality on all internet-facing systems to mitigate the risk of unauthorized access and potential data compromise.**
+
+---
+
+**1. Executive Summary**
+
+Threat actors are actively exploiting vulnerabilities in Cisco IOS XE software, specifically targeting devices used for managing network infrastructure. This exploitation poses a significant risk to our operations, potentially leading to disruption of critical business processes and the compromise of sensitive data. We must take immediate action to limit the potential for damage.
+
+**2. Potential Business Impact**
+
+A successful attack could result in substantial operational disruption, impacting our ability to manage our network and potentially halting key business functions. The compromise of network management systems could expose confidential customer data, leading to significant financial penalties and severe reputational damage. Furthermore, this activity raises concerns regarding potential regulatory scrutiny and associated compliance costs.
+
+**3. Affected Systems / Scope**
+
+This threat targets systems used to manage our network infrastructure, specifically those with the ability to connect to the internet. This exposes our entire network to unauthorized access, impacting critical business processes such as service delivery, network monitoring, and configuration management. The vulnerability affects any system where this web interface is enabled.
+
+**4. Recommended Actions**
+
+*   **IT Operations:** Immediately disable the HTTP/S server feature on all internet-facing systems. This action directly addresses the vulnerability exploited by the threat actors, preventing unauthorized access to our network management systems.
+*   **Security Incident Response Team:** Initiate a full investigation to determine the extent of the compromise and identify any systems that may have been affected. This proactive step will allow us to contain the damage and prevent further exploitation.
+*   **Network Engineering:** Review and strengthen access controls to all network management systems, limiting access to authorized personnel only. This will reduce the attack surface and minimize the potential impact of a successful intrusion.
+*   **Vendor Management:** Engage with Cisco to ensure they are providing timely security updates and patches for this vulnerability. Maintaining a strong relationship with our vendors is crucial for mitigating emerging threats.
+*   **Monitoring & Alerting:** Enhance monitoring and alerting capabilities to detect any suspicious activity on our network management systems. This will provide early warning of potential attacks and allow for rapid response.
+
+---
+
+We observed early evidence of potentially malicious activity on Sept. 28, 2023, when a case was opened with Cisco’s Technical Assistance Center (TAC) that identified unusual behavior on a customer device. Upon further investigation, we observed what we have determined to be related activity as early as Sept. 18. The activity included an authorized user creating a local user account under the username "cisco\_tac\_admin" from a suspicious IP address (5.149.249[.]74). Instances of this activity ended on Oct. 1, and we did not observe any other associated behavior at that time other than the suspicious account creation.

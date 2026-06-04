@@ -1,0 +1,25 @@
+**Executive Threat Intelligence Report – TA4903 Activity**
+
+**1. Executive Summary**
+
+TA4903, a financially motivated cybercriminal actor, is conducting business email compromise (BEC) attacks targeting organizations globally. These attacks involve spoofing legitimate entities, such as government agencies and suppliers, to solicit banking information. This activity poses a significant risk of financial loss and operational disruption for our institution.
+
+**2. Potential Business Impact**
+
+A successful TA4903 attack could result in substantial financial losses through fraudulent wire transfers, disruption of critical business processes, and potential damage to our reputation. The actor’s tactic of mimicking cyberattack alerts and requesting banking updates creates a high risk of employees complying with fraudulent requests, leading to unauthorized financial transactions. Furthermore, a compromised account could be used to gain access to sensitive client data, triggering regulatory scrutiny and potential fines.
+
+**3. Affected Systems / Scope**
+
+The threat actor’s campaigns target organizations across various sectors, including construction, finance, healthcare, and food and beverage. The actor utilizes high-volume email campaigns, often targeting entities in the U.S., although global targeting has been observed. These campaigns are designed to infiltrate mailboxes and conduct follow-on BEC activity, leveraging stolen credentials to manipulate business operations.
+
+**4. Recommended Actions**
+
+*   **Immediately enhance employee awareness training:** Direct all employees to prioritize verification of all unsolicited requests for financial information, particularly those claiming to be from government entities or suppliers. This will reduce the risk of employees falling victim to phishing attacks.
+*   **Strengthen supplier verification protocols:** Direct the procurement team to implement enhanced due diligence procedures when onboarding new suppliers, focusing on validating the legitimacy of their communications and banking details.
+*   **Implement multi-factor authentication (MFA) across all critical accounts:** Direct IT to enforce MFA for all accounts with access to financial systems and sensitive data, significantly reducing the risk of unauthorized access even if credentials are compromised.
+*   **Conduct regular simulated phishing exercises:** Direct the security team to conduct frequent simulated phishing campaigns to test employee vigilance and identify vulnerabilities in our defenses.
+*   **Monitor for invoice fraud themes:** Direct the threat intelligence team to actively monitor for BEC campaigns utilizing invoicing or remittance themes, as these have been observed as a key tactic of the TA4903 actor. 
+
+---
+
+Note: This report is based solely on the provided threat intelligence document. Further investigation and analysis may be required to fully assess the potential impact of this threat.

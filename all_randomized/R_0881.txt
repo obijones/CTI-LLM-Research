@@ -1,0 +1,21 @@
+**Executive Report: Advanced Phishing Campaign Targeting Financial Services**
+
+**1. Executive Summary**
+
+A sophisticated adversary, designated Storm-1167, is conducting a multi-stage phishing and business email compromise (BEC) attack targeting banking and financial services organizations. This campaign leverages trusted vendor relationships to gain access and initiate fraudulent financial transactions, posing a significant risk to the organization’s financial stability and operational integrity. Immediate action is required to contain the threat and mitigate potential financial losses.
+
+**2. Potential Business Impact**
+
+This attack presents a serious threat to the organization’s financial operations. Successful exploitation could result in substantial financial losses due to fraudulent wire transfers, disruption of critical financial processes, and potential regulatory fines associated with non-compliance. Furthermore, reputational damage stemming from a successful BEC attack could erode customer trust and negatively impact the organization’s market value. The complexity of the attack, involving multiple stages and leveraging compromised vendor relationships, amplifies the potential for widespread disruption and significant financial consequences.
+
+**3. Affected Systems / Scope**
+
+The attack originates from a compromised trusted vendor and utilizes advanced techniques, including artificial identity theft (AiTM), to impersonate IT helpdesk staff and gain remote access to user systems. This compromises the ability of users to securely manage financial transactions and access sensitive financial data. The attack’s multi-stage nature, progressing from initial phishing to secondary BEC activities, exposes a broad range of operational functions reliant on secure financial communications and access, including accounts payable, treasury management, and customer payments.
+
+**4. Recommended Actions**
+
+*   **Immediately revoke session cookies** for all users, as described in the incident response, to prevent further access by the attacker. This directly addresses the identified method of intrusion and limits the attacker’s ability to maintain control of compromised accounts.
+*   **Roll back MFA modifications** made by the threat actor, as recommended in the incident response, to restore the organization’s existing security controls and prevent further unauthorized access. This action is critical to restoring the integrity of the organization’s security posture.
+*   **Initiate rapid response with Microsoft 365 Defender** to contain the attack, as outlined in the incident response, including monitoring for additional compromised users and changes in phishing patterns. This proactive approach aims to identify and neutralize the threat as quickly as possible.
+*   **Continuously monitor suspicious or anomalous activities** for sign-in attempts with suspicious characteristics, such as location, ISP, and user agent, as suggested in the incident response. This heightened vigilance will help detect and prevent further exploitation of compromised accounts.
+*   **Implement continuous access evaluation** to ensure only authorized users have access to sensitive systems and data, as recommended in the incident response. This strengthens the organization's overall security posture and reduces the risk of unauthorized access.

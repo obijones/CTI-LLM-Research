@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately implement measures to prevent unauthorized access to sensitive data and operational systems, as a critical vulnerability is actively being exploited by external actors.**
+
+---
+
+**1. Executive Summary**
+
+External threat actors are actively exploiting a zero-day vulnerability in GlobalProtect software, impacting a significant number of organizations. This exploitation poses a critical risk to our operations, potentially leading to unauthorized access to sensitive data and disruption of critical business processes.
+
+**2. Potential Business Impact**
+
+A successful exploitation of this vulnerability could result in significant operational disruption, potentially halting critical business functions reliant on GlobalProtect. Furthermore, unauthorized access to sensitive data could trigger substantial financial losses due to regulatory fines, remediation costs, and reputational damage. The scale of potential impact is substantial given the vulnerability’s ease of exploitation.
+
+**3. Affected Systems / Scope**
+
+This vulnerability affects GlobalProtect software deployed across multiple organizations, specifically those utilizing PAN-OS 120.2, PAN-OS 11.0, and PAN-OS 11.1 versions. This exposes organizations that rely on GlobalProtect for secure remote access to a serious risk of compromise, impacting business processes dependent on this connectivity.
+
+**4. Recommended Actions**
+
+*   **Immediately Patch Affected Systems:** Direct IT teams to implement the latest PAN-OS hotfix releases (10.2.9-h1, PAN-OS 11.0.4-h1, PAN-OS 11.1.2-h3) to address the identified vulnerability and prevent further exploitation.
+*   **Implement Enhanced Monitoring:** Direct security teams to increase monitoring of GlobalProtect traffic for suspicious activity, focusing on indicators of compromise identified by Kroll’s threat intelligence.
+*   **Conduct a Thorough Assessment:** Direct a comprehensive review of all systems utilizing GlobalProtect to identify any additional vulnerabilities or misconfigurations that could be exploited.
+*   **Activate Incident Response Protocols:** Initiate our established incident response protocols to contain any potential breaches and facilitate rapid recovery efforts.
+*   **Collaborate with External Experts:** Engage with Kroll’s incident response team to leverage their expertise in investigating and mitigating sophisticated cyberattacks, ensuring a coordinated and effective response.

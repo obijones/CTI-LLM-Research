@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately revoke all session cookies and roll back any recent security settings (Multi-Factor Authentication) across all impacted systems to prevent further unauthorized access and potential financial loss.**
+
+---
+
+**1. Executive Summary**
+
+A sophisticated cyberattack, orchestrated by a threat actor designated Storm-1167, is targeting financial services organizations through the abuse of external Microsoft Teams collaboration platforms. This attack poses a significant risk of financial fraud and operational disruption by impersonating IT helpdesk staff to gain remote access to sensitive systems.
+
+**2. Potential Business Impact**
+
+This activity has the potential to cause substantial financial loss through business email compromise (BEC) schemes, disrupt critical banking operations, and damage the organization’s reputation. The rapid spread of this attack, as evidenced by the multi-stage campaign, could lead to widespread data breaches and significant remediation costs.
+
+**3. Affected Systems / Scope**
+
+The attack targets organizations’ ability to securely manage access to their systems, specifically through the exploitation of trusted vendor relationships. The compromised access allows attackers to monitor email activity, delete sensitive information, and potentially initiate further fraudulent transactions. This exposes the entire operational process of banking and financial services.
+
+**4. Recommended Actions**
+
+*   **Immediately Revoke Session Cookies:** Direct IT security teams to immediately revoke all session cookies associated with user accounts that have been identified as compromised. This will prevent the attacker from maintaining unauthorized access to systems.
+*   **Roll Back Multi-Factor Authentication (MFA) Modifications:** Direct IT security teams to roll back any recent MFA modifications made by the threat actor. This will reduce the attacker’s ability to bypass security controls.
+*   **Initiate Rapid Response with Microsoft 365 Defender:** Direct Microsoft 365 Defender to contain the attack, including monitoring for additional compromised users and changes in phishing patterns.
+*   **Conduct Thorough Account Audits:** Direct the organization to conduct a thorough audit of all user accounts to identify any additional compromised accounts and to assess the extent of the attacker’s access.
+*   **Implement Enhanced Monitoring:** Direct the organization to implement enhanced monitoring of email traffic and user activity to detect and prevent future attacks.

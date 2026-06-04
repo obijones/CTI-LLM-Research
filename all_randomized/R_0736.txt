@@ -1,0 +1,23 @@
+**BOTTOM LINE: Immediately implement enhanced monitoring of external communications to detect and prevent further data exfiltration by this criminal group.**
+
+---
+
+**1. Executive Summary**
+
+The CL0P ransomware group has stolen sensitive information from a GoAnywhere MFT resource and is actively attempting to negotiate with the impacted organization. This activity poses a significant risk to the organization’s operations, potentially leading to substantial financial losses, reputational damage, and regulatory scrutiny.
+
+**2. Potential Business Impact**
+
+A successful data breach by CL0P could result in substantial financial losses due to ransom demands, recovery costs, and potential legal liabilities. Furthermore, the public disclosure of stolen data would severely damage the organization’s reputation, eroding customer trust and impacting business relationships. Finally, the organization could face regulatory fines and penalties related to data protection and privacy regulations.
+
+**3. Affected Systems / Scope**
+
+The CL0P group has targeted a GoAnywhere MFT resource, which is used to facilitate secure remote access for employees. This compromise exposes the organization’s entire operational network, as the group could leverage this access to spread ransomware or exfiltrate additional data. The impact extends to all business processes reliant on secure remote access, creating a critical vulnerability across the organization.
+
+**4. Recommended Actions**
+
+*   **Immediately implement enhanced monitoring of external communications:** This includes logging and reporting all network traffic, including lateral movement activity on a network. This will aid in detecting the ransomware.
+*   **Segment networks to prevent the spread of ransomware:** Network segmentation can help prevent the spread of ransomware by controlling traffic flows between—and access to—various subnetworks and by restricting adversary lateral movement.
+*   **Implement application controls to manage and control execution of software:** Requiring authorized remote access solutions only be used from within your network over approved remote access solutions, such as virtual private networks (VPNs) or virtual desktop interfaces (VDIs).
+*   **Block both inbound and outbound connections** on common remote access software ports and protocols at the network perimeter.
+*   **Promptly report ransomware incidents to a local FBI Field Office and the FBI Internet Crime Complaint Center (IC3):** Sharing information with law enforcement and cybersecurity experts will accelerate the investigation and potentially lead to the recovery of stolen data and the disruption of the criminal group’s activities.

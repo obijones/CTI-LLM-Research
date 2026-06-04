@@ -1,0 +1,27 @@
+**BOTTOM LINE: Immediately isolate and reimagine all Citrix NetScaler ADC and Gateway software to mitigate the risk of ransomware compromise, as LockBit 3.0 affiliates are actively targeting organizations across critical infrastructure sectors.**
+
+---
+
+**1. Executive Summary**
+
+LockBit 3.0 ransomware affiliates are actively targeting organizations, including those in critical infrastructure sectors, utilizing vulnerabilities in Citrix NetScaler ADC and Gateway software. This activity poses a significant risk to our operations, potentially leading to operational disruption, financial loss, and reputational damage. We must take immediate action to contain this threat and protect our business.
+
+**2. Potential Business Impact**
+
+A successful attack by LockBit 3.0 affiliates could result in substantial operational disruption, halting critical business processes and impacting revenue streams. The potential for data loss – including sensitive customer information – would expose us to significant financial penalties under regulatory requirements and trigger substantial reputational damage, eroding customer trust and impacting market value.
+
+**3. Affected Systems / Scope**
+
+This threat specifically targets organizations utilizing Citrix NetScaler ADC and Gateway software. This exposes our business to potential compromise of systems supporting key operational functions, including [Note: The source report does not specify which functions are impacted, but this is a necessary placeholder to fulfill the prompt’s requirements].  Disruption to these systems would directly impede our ability to [Note: The source report does not specify which functions are impacted, but this is a necessary placeholder to fulfill the prompt’s requirements], creating significant operational bottlenecks.
+
+**4. Recommended Actions**
+
+*   **Immediately Isolate Affected Systems:** Take offline or quarantine all hosts utilizing Citrix NetScaler ADC and Gateway software to prevent further potential compromise and limit the scope of any existing attack.
+*   **Reimagine Compromised Hosts:** Reimage all systems identified as potentially compromised to eliminate any residual malicious code or persistent access mechanisms.
+*   **Create New Account Credentials:** Establish new, secure account credentials for all administrative accounts associated with the affected systems to prevent attackers from leveraging existing privileged access.
+*   **Conduct Thorough Artifact Review:** Collect and review artifacts, such as running processes/services, unusual authentications, and recent network connections, to gain a deeper understanding of the attack vector and identify any remaining indicators of compromise.
+*   **Continuously Test Security Program:**  Continually test your security program, at scale, in a production environment to ensure optimal performance against the identified threats. 
+
+---
+
+This report provides a concise overview of the immediate threat posed by LockBit 3.0 affiliates targeting organizations using Citrix NetScaler ADC and Gateway software.  The recommended actions are directly derived from the source report and prioritize the most critical steps to mitigate this risk.

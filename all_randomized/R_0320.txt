@@ -1,0 +1,21 @@
+**Executive Report: Advanced Phishing Campaign Targeting Financial Services**
+
+**1. Executive Summary**
+
+A sophisticated adversary, designated Storm-1167, is conducting a multi-stage phishing and business email compromise (BEC) attack targeting banking and financial services organizations. This campaign leverages trusted vendor relationships to gain access and initiate fraudulent financial transactions, posing a significant risk to our organization’s financial stability and reputation. Immediate action is required to contain the threat and mitigate potential losses.
+
+**2. Potential Business Impact**
+
+This attack presents a serious threat to our organization’s financial operations. Successful exploitation could result in substantial financial losses due to fraudulent transactions, as well as significant reputational damage stemming from a breach of customer trust. Furthermore, the incident could trigger regulatory scrutiny and potential fines related to data security and financial crime prevention. The complexity of the attack, requiring revocation of session cookies and rollback of MFA modifications, indicates a high degree of sophistication and potential for widespread disruption.
+
+**3. Affected Systems / Scope**
+
+The attack originates from a compromised trusted vendor and utilizes indirect proxy techniques to evade conventional defenses. This compromises the security of multiple organizations, including those involved in financial transactions. Specifically, the campaign’s progression through multiple organizations highlights the vulnerability of supply chain relationships and the potential for cascading disruption across the financial ecosystem. The use of AiTM attacks demonstrates a targeted approach to financial fraud, focusing on exploiting trusted relationships to gain access to sensitive information and initiate fraudulent activities.
+
+**4. Recommended Actions**
+
+*   **Immediately revoke all session cookies** associated with potentially compromised users. This action, as implemented by Microsoft Defender Experts, directly addresses the attack’s core mechanism for maintaining unauthorized access and preventing further fraudulent activity.
+*   **Roll back all MFA modifications** made by the threat actor. This step, mirroring the response taken by Microsoft Defender Experts, is critical to restoring secure access controls and preventing the attacker from maintaining persistent access to systems.
+*   **Initiate a comprehensive review of all vendor relationships** to assess potential vulnerabilities and implement enhanced security protocols. This proactive measure will strengthen our defenses against supply chain attacks and reduce the risk of future compromises.
+*   **Implement continuous access evaluation** to monitor user activity and identify any suspicious behavior in real-time. This will allow for rapid detection and response to potential threats, minimizing the impact of any ongoing attacks.
+*   **Invest in advanced anti-phishing solutions** that monitor and scan incoming emails and visited websites. This will help to block malicious emails, links, and files, including those used in this phishing campaign, and prevent further compromise.

@@ -1,0 +1,21 @@
+**Executive Threat Intelligence Report – Business Email Compromise**
+
+**1. Executive Summary**
+
+A global business email compromise (BEC) scam targeting financial institutions is underway, with a Singapore-based firm becoming the latest victim. This sophisticated operation poses a significant risk to our organization by enabling attackers to gain unauthorized access to financial systems and initiate fraudulent transfers, potentially resulting in substantial financial loss and reputational damage.
+
+**2. Potential Business Impact**
+
+This BEC campaign presents a serious threat to our operations and financial stability. Successful execution could lead to the unauthorized transfer of funds, disrupting critical payment processes and potentially causing millions of dollars in losses. Furthermore, a compromised financial system could trigger regulatory scrutiny and damage our reputation with clients and partners, impacting investor confidence. The scale of potential financial loss is currently unknown, but the tactic’s demonstrated success against other firms warrants immediate attention.
+
+**3. Affected Systems / Scope**
+
+The core vulnerability exploited in this attack centers around employee susceptibility to deceptive emails mimicking legitimate business communications. Specifically, the attack relies on attackers impersonating suppliers to request payment redirection to fraudulent bank accounts. This compromises the integrity of our payment processes, potentially impacting all transactions handled through our accounts payable system and exposing our financial operations to manipulation. This vulnerability extends to any employee who processes or approves payments, creating a broad attack surface.
+
+**4. Recommended Actions**
+
+*   **Immediately enhance employee awareness training:** Implement mandatory training for all employees involved in financial transactions, focusing on identifying and reporting suspicious emails requesting payment redirection. This will reduce the risk of employees falling victim to social engineering tactics.
+*   **Strengthen verification protocols for all supplier communications:** Establish a formal process for independently verifying the legitimacy of all supplier requests, particularly those involving payment redirection, before initiating any financial transactions.
+*   **Implement multi-factor authentication (MFA) for all financial systems:** Enforce MFA across all systems handling financial data to prevent unauthorized access even if an employee’s credentials are compromised.
+*   **Conduct a thorough review of our payment authorization procedures:** Evaluate and strengthen our existing controls to ensure that all payment requests are subject to rigorous scrutiny and approval processes, minimizing the opportunity for fraudulent transfers.
+*   **Establish a rapid response team for suspected BEC incidents:** Create a dedicated team to investigate and contain any suspected BEC incidents, coordinating with law enforcement and relevant authorities to mitigate the impact and prevent further losses.
