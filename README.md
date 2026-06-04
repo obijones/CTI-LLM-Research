@@ -53,9 +53,9 @@ The research applies five systematically progressive prompt strategies (S0–S4)
 | S1 | Role Framing | Explicit analyst persona and audience framing |
 | S2 | Structured Output | Defined section headers and output constraints |
 | S3 | Writing Principles | One-shot approach adapted into embedded writing principles after RAG pipeline could not reliably distinguish the exemplar document from the source report under analysis |
-| S4 | Chain-of-Thought | Stepwise reasoning instruction before output generation |
+| S4 | Writing Principles + BLUF | Combined writing principles from S3 with Bottom Line Up Front (BLUF) methodology, requiring the most critical business risk finding to lead the output before supporting analysis |
 
-Each strategy was applied to all 20 source reports, producing **200 total outputs** (1,000 scored records across the CTI tracker workbook).
+Each strategy was applied to all 20 source reports, producing **200 total outputs per strategy** (1,000 scored records across the CTI tracker workbook).
 
 ### CTI Corpus — Threat Categories
 
