@@ -1,4 +1,4 @@
-# CTI-to-Executive Translation via Local LLM: A Prompt Engineering Study
+# Evaluating LLMs as a Bridge Between Cyber Threats and Business Risk for Executive Decision-Making
 
 **Evaluating Whether a Locally Deployed Large Language Model Can Reliably Translate Technical Cyber Threat Intelligence into Executive-Appropriate Business Risk Summaries**
 
@@ -16,7 +16,7 @@ The research applies five systematically progressive prompt strategies (S0–S4)
 
 ## Research Question
 
-> *Can a locally deployed large language model reliably translate technical cyber threat intelligence into executive-appropriate business risk summaries that meet a defined quality threshold across multiple threat categories?*
+> *To what extent can AI-powered natural language processing reduce the time required to translate technical cyber threat intelligence into business risk assessments that enable informed executive decision-making?*
 
 ---
 
@@ -25,7 +25,7 @@ The research applies five systematically progressive prompt strategies (S0–S4)
 ```
 .
 ├── reports/
-│   └── [200 randomized LLM-generated outputs ready for blind scoring]
+│   └── [1000 randomized LLM-generated outputs ready for blind scoring]
 ├── CTI_Tracker_All_Reports.xlsx             # Scoring workbook (1,000 records across S0–S4)
 ├── source_report_index.xlsx                 # Index of 20 CTI source reports (4 threat categories)
 └── README.md
