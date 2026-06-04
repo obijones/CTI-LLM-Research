@@ -10,8 +10,6 @@ This repository accompanies a graduate research project examining whether a loca
 
 The research applies five systematically progressive prompt strategies (S0–S4) across a corpus of 20 real-world CTI source reports, scoring all generated outputs against a four-dimension rubric designed to assess executive communication quality and analytic tradecraft.
 
-> **Status:** Research in progress — white paper draft complete through the Research Method section. Findings and Discussion sections pending completion of blind scoring.
-
 ---
 
 ## Research Question
